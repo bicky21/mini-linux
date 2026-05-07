@@ -1,0 +1,5 @@
+output/
+*.ext2
+*.tar
+*.log
+*.o
